@@ -10,11 +10,11 @@ I am a fellow student at GSG-Freiberg (Geschwister-Scholl-Gymnasium Freiberg) in
 ## Outline
 
 
-- 🔭 I’m currently working on a [WRO2023 Documentary](https://github.com/GSGMiners/WRO2023-Team-GSGMiners)  
+- 🔭 I’m currently working on a [WRO2023 Documentary](https://github.com/GSGMiners/WRO2023-Team-GSGMiners).
   
   <img src="https://www.worldrobotolympiad.de/website/img/wro2023/logo.png" height="150" width="150" />
 
-- 🌱 I’m currently learning ultrasonic sensors    
+- 🌱 I’m currently learning ultrasonic sensors.
 
 
 <br/>  
