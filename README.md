@@ -8,7 +8,7 @@ I am a fellow student at GSG-Freiberg (Geschwister-Scholl-Gymnasium Freiberg) in
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%" border: "0px">
 
 - 🔭 I’m currently working on a [WRO2023 Documentary](https://github.com/GSGMiners/WRO2023-Team-GSGMiners)  
   
@@ -16,7 +16,7 @@ I am a fellow student at GSG-Freiberg (Geschwister-Scholl-Gymnasium Freiberg) in
 - 🌱 I’m currently learning ultrasonic sensors    
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="50%" border: "0px">
 
 <div align="right">
 <img src="https://www.worldrobotolympiad.de/website/img/wro2023/logo.png" align="right" height="150" width="150" />
