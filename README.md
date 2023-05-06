@@ -14,7 +14,7 @@ I am a fellow student at GSG-Freiberg (Geschwister-Scholl-Gymnasium Freiberg) in
   
   <img src="https://www.worldrobotolympiad.de/website/img/wro2023/logo.png" height="150" width="150" />
 
-- 🌱 I’m currently learning ultrasonic sensors.
+- 🌱 I’m currently learning **C++**.
 
 
 <br/>  
