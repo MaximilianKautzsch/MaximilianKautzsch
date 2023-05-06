@@ -1,4 +1,4 @@
-## Hi 👋, I'm Maximilian.  
+## Hi, I'm Maximilian 👋
   
 
 I am a fellow student at GSG-Freiberg (Geschwister-Scholl-Gymnasium Freiberg) in Freiberg, Germany. My main areas of interest are Engineering and Management.  
