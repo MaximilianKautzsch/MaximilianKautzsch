@@ -10,11 +10,11 @@ I am a fellow student at GSG-Freiberg (Geschwister-Scholl-Gymnasium Freiberg) in
 ## Outline
 
 
-- 🔭 I’m currently working on a [WRO2023 Documentary](https://github.com/GSGMiners/WRO2023-Team-GSGMiners) with my team.
+- 🔭 I’m currently working on a linetracker for the [Makers United](https://www.makers-united.de/) in Chemnitz with my team. Moreover, we also use the project strategically in order to prepare for the WRO in 2024.
   
   <img src="https://www.worldrobotolympiad.de/website/img/wro2023/logo.png" height="150" width="150" />
 
-- 🌱 I’m currently learning **C++**.
+- 🌱 I’m currently learning **Arduino / Raspberry Pi**.
 
 
 <br/>  
