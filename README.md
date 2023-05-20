@@ -29,9 +29,3 @@ I am a fellow student at GSG-Freiberg (Geschwister-Scholl-Gymnasium Freiberg) in
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
 </div>  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=MaximilianKautzsch&&style=flat-square)  
-
-<br />
