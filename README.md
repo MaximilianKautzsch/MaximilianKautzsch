@@ -12,8 +12,9 @@ I am a fellow student at GSG-Freiberg (Geschwister-Scholl-Gymnasium Freiberg) in
 
 - 🔭 I’m currently working on a linetracker for the [Makers United](https://www.makers-united.de/) in Chemnitz with my team. Moreover, we also use the project strategically in order to prepare for the [WRO](https://www.worldrobotolympiad.de/) (FE Category) in 2024.
   
-  <img src="https://bit.ly/3IpKAkG" height="150" width="auto" >
-  <img src="https://bit.ly/3MH9sXG" height ="150" width ="auto" >
+  <img src="[https://bit.ly/3MH9sXG](https://chemnitz2025.de/wp-content/uploads/2022/06/makers_united_header_113364_orig.jpg)" height ="150" width="auto" >
+  <img src="[https://bit.ly/3IpKAkG](https://www.worldrobotolympiad.de/website/img/logo_wro.png)" height="150" width="auto" >
+
 
 - 🌱 I’m currently learning **ESP32 / Raspberry Pi**.
 
