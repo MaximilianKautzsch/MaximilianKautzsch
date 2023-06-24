@@ -4,7 +4,7 @@
 
 I am a grammar school student whose purpose is discovering and implementing solutions for energy generation, transportation and storage while using these technologies to slow down climate change. Among the software technologies that I find enjoyable to work with are Arduino, Processing, and MkDocs. In the regional finals of the <a href="https://www.worldrobotolympiad.de/">World Robot Olympiad 🤖</a> held in 2023, my team and I placed third. Fueled by our passion for microelectronics and robotics, our aspiration is to win the regional finals,  therby attaining a top-ranking position on the national or rather international leaderboard.
   
-## Find me around the web 🌎: <a href=""><img align="left" width="150" height="150" src="[https://octodex.github.com/images/NUX_Octodex.gif](https://octodex.github.com/images/NUX_Octodex.gif)"></a>
+## Find me around the web 🌎: <a href=""><img align="left" width="150" height="150" src="https://octodex.github.com/images/NUX_Octodex.gif"></a>
 - Showcasing projects on <a href ="">aboutmaximilian.com</a> ✍🏼
 - Sharing updates on <a href="">LinkedIn</a> 💼
 
