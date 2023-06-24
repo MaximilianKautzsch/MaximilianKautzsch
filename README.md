@@ -2,24 +2,11 @@
   
 <img src = "https://github.com/MaximilianKautzsch/MaximilianKautzsch/blob/847dbdd0208c62a74e9e16405c6e84aba2ad1092/gh-header-image-cropped.png" alt = "banner that says Maximilian Kautzsch - Grammar School Student alongside memoji illustration of Maximilian">
 
-I am a fellow student at GSG-Freiberg (Geschwister-Scholl-Gymnasium Freiberg) in Freiberg, Germany. My main areas of interest are engineering and entrepreneurship / business administration.  
+I am a grammar school student whose purpose is discovering and implementing solutions for energy generation, transportation and storage while using these technologies to slow down climate change. Among the software technologies that I find enjoyable to work with are Arduino, Processing, and MkDocs. In the regional finals of the <a href="https://www.worldrobotolympiad.de/">World Robot Olympiad 🤖</a> held in 2023, my team and I placed third. Fueled by our passion for microelectronics and robotics, our aspiration is to win the regional finals,  therby attaining a top-ranking position on the national or rather international leaderboard.
   
-
-
-## Outline
-
-
-- 🔭 I’m currently working on a linetracker for the [Makers United](https://www.makers-united.de/) in Chemnitz with my team. Moreover, we also use the project strategically in order to prepare for the [WRO](https://www.worldrobotolympiad.de/) (FE Category) in 2024.
-  
-  <img src="https://chemnitz2025.de/wp-content/uploads/2022/06/makers_united_header_113364_orig.jpg" height ="80" width="auto" >
-  <img src="https://g-h-s.de/images/unterricht/ag/robotic/wro/WRO2.png" height="80" width="auto" >
-
-
-- 🌱 I’m currently learning **ESP32 / Raspberry Pi**.
-
-
-<br/>  
-
+## Find me around the web 🌎:
+- Showcasing projects on <a href ="">aboutmaximilian.com</a> ✍🏼
+- Sharing updates on <a href="">LinkedIn</a> 💼
 
 ## Languages and Tools  
 <div align="center">  
