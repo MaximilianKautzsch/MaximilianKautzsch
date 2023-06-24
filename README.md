@@ -1,6 +1,6 @@
 # Hello, I'm Maximilian 👋🏼👨🏼‍💻
   
-<img src = "[https://github.com/MaximilianKautzsch/MaximilianKautzsch/blob/847dbdd0208c62a74e9e16405c6e84aba2ad1092/gh-header-image-cropped.png).png](https://github.com/MaximilianKautzsch/MaximilianKautzsch/blob/847dbdd0208c62a74e9e16405c6e84aba2ad1092/gh-header-image-cropped.png)" alt = "banner that says Maximilian Kautzsch - Grammar School Student alongside memoji illustration of Maximilian">
+<img src = "https://github.com/MaximilianKautzsch/MaximilianKautzsch/blob/847dbdd0208c62a74e9e16405c6e84aba2ad1092/gh-header-image-cropped.png" alt = "banner that says Maximilian Kautzsch - Grammar School Student alongside memoji illustration of Maximilian">
 
 I am a fellow student at GSG-Freiberg (Geschwister-Scholl-Gymnasium Freiberg) in Freiberg, Germany. My main areas of interest are engineering and entrepreneurship / business administration.  
   
