@@ -1,6 +1,6 @@
 # Hello, I'm Maximilian 👋🏼👨🏼‍💻
   
-<img src = "gh-header-image.png" alt = "banner that says Maximilian Kautzsch - Grammar School Student alongside memoji illustration of Maximilian">
+<img src = "gh-header-image2.png" alt = "banner that says Maximilian Kautzsch - Grammar School Student alongside memoji illustration of Maximilian">
 
 I am a fellow student at GSG-Freiberg (Geschwister-Scholl-Gymnasium Freiberg) in Freiberg, Germany. My main areas of interest are engineering and entrepreneurship / business administration.  
   
