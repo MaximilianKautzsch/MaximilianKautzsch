@@ -11,6 +11,4 @@ Among the software technologies that I find enjoyable to work with are Arduino, 
 </div>
   
 <h3 align="left">Languages and Tools</h3>
-<div align="center">  
 ![My Skills](https://skillicons.dev/icons?i=c++,arduino,html,css,linux,python,raspberrypi)
-</div>
