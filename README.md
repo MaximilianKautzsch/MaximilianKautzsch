@@ -1,7 +1,7 @@
 ## Hello, I'm Maximilian.
 
 <div align="right">
-<img align="right" width="500" src = "https://github.com/MaximilianKautzsch/MaximilianKautzsch/blob/bedf49c3283152fbcc4d6a90b497157244e0cf43/gh-header-image-cropped.png" alt = "banner that says Maximilian Kautzsch - Grammar School Student alongside memoji illustration of Maximilian">
+<img align="right" width="500" src = "" alt = "banner that says Maximilian Kautzsch - Grammar School Student alongside memoji illustration of Maximilian">
 </div>
 
 <div align="left">
