@@ -1,4 +1,4 @@
-## Hello, I'm Maximilian.
+## Hello World :wave:
 
 <div align="right">
 <!-- <img align="right" width="500" src = "" alt = "profile banner"> -->
