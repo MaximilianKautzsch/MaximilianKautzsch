@@ -5,9 +5,12 @@
 </div>
 
 <div align="left">
-I am a grammar school student whose purpose is discovering and implementing solutions for energy supply, transportation and storage while using these technologies to contribute to slowing down climate change. 
+I am an ambitious grammar school student at Geschwister-Scholl-Gymnasium Freiberg, dedicated to advancing the field of nuclear fusion as a transformative solution for sustainable energy and climate change mitigation. My academic focus lies in Mathematics and Physics, with a particular interest in particle physics, nuclear physics, and plasma confinement techniques.
 
-Among the software technologies that I find enjoyable to work with are Arduino, Processing, and Python. In the regional finals of the <a href="https://www.worldrobotolympiad.de/">World Robot Olympiad</a> held in 2023, my team and I placed third. Fueled by our passion for microelectronics and robotics, our aspiration is to win the regional finals,  therby attaining a top-ranking position on the national or rather international leaderboard.
+As the head of operations for 'ZEN', our school's robotics club, I lead a team in designing and programming autonomous robots. We leverage technologies such as Arduino, Raspberry Pi, Processing, and Python to bring our innovative ideas to life. Our efforts have garnered recognition in competitive arenas, including a notable first place in the 2024 Regional Finals and fifth place in the National Finals of the WorldRobotOlympiad.
+Driven by our success and passion for microelectronics and robotics, we are now setting our sights on the international stage of the WorldRobotOlympiad in 2025. Through these endeavors, I aim to hone my skills in software development, engineering, and project management - all crucial components in my long-term goal of contributing to the commercialization of nuclear fusion technology.
+
+I am always eager to connect with fellow enthusiasts, researchers, and professionals who share my vision of leveraging cutting-edge technology to address global energy challenges and combat climate change. Together, we can work towards bringing the power of the sun to Earth and shaping a sustainable future for all.
 </div>
   
 ### Languages and Tools
