@@ -16,4 +16,4 @@ I am always eager to connect with fellow enthusiasts, researchers, and professio
   
 ### Languages and Tools
 
-[![My Skillset](https://skillicons.dev/icons?i=html,css,js,cpp,py,processing,linux,arduino,raspberrypi,vscode,latex,github&theme=dark)](https://skillicons.dev)
+[![My Skillset](https://skillicons.dev/icons?i=html,css,js,cpp,py,tensorflow,processing,linux,ubuntu,arduino,raspberrypi,vscode,latex,github&theme=dark)](https://skillicons.dev)
